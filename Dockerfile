@@ -1,1 +1,2 @@
 from busybox
+ADD .
