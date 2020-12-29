@@ -1,1 +1,1 @@
-from ubuntu
+from java:8
