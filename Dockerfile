@@ -1,1 +1,1 @@
-from java:8
+from openjdk:8
