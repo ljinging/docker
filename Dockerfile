@@ -1,1 +1,1 @@
-from openjdk:8
+from nginx
